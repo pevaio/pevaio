@@ -2,6 +2,8 @@
   <img height="150" src="https://pevaio.neocities.org/assets/pevaio-pfp-circle.png" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pevaio.pevaio&right_color=darkgoldenrod&left_text=Visitors" />
 </div>
@@ -42,6 +44,8 @@ I'm a Brazilian student of many things. Among the many topics I like, the main o
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo" />
 </div>
+
+### Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pevaio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
