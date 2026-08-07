@@ -14,12 +14,16 @@
 
 I'm a Brazilian student of many things. Among the many topics I like, the main ones are: languages, technology, music, gaming and literature.
 
+<br>
+
 ### Currently learning
 
 - **Languages**: German, Spanish and toki pona
 - **Programming**: React, databases, C++
 - **Tech**: Networking, Linux, x64, homelabbing
 - **Other**: Linguistics, geopolitics
+
+<br>
 
 ### Languages and tools
 
@@ -44,6 +48,8 @@ I'm a Brazilian student of many things. Among the many topics I like, the main o
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo" />
 </div>
+
+<br>
 
 ### Stats
 
